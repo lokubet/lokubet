@@ -1,5 +1,12 @@
-### Hi there 👋
-
+## Hi there 👋
+ My name Alexandr and i am student of school 21.
+ 
+ I’m currently working on s21_string
+ 
+ I'm looking for job offers
+ 
+ How to reach me: kirinietik@gmail.com
+ 
 <!--
 **lokubet/lokubet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
