@@ -1,7 +1,7 @@
 ## Hi there 👋
  My name Alexandr and i am student of school 21.
  
- I’m currently working on s21_string
+ I’m currently working on s21_matrix+
  
  I'm looking for job offers
  
